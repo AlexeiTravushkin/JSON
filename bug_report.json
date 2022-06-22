@@ -1,1 +1,16 @@
+{
+	"ID": "Just_the_number_of_bug",
+	"Summary": "Short_description",
+	"Environment": "Platform_OS_Browser_version",
+	"Product": "The_name_jf_the_product",
+	"Version": "Version_of_the_product",
+   "Steps_to_reproduce": "All_steps_to_reproduce_with_exact_summary_for_each",
+        "Status": "New",
+	"Severity": "Minor","Major","etc",
+	"Priority": "P1",
+	"Expected_result": "The_result_you_expect",
+	"Actual_result": "Not_need_to_be_explain",
+	"Attachments": "Some_links"
+}
+
 
